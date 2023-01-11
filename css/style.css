@@ -1,0 +1,20 @@
+ 
+        body{
+            background-color:burlywood ;
+        }
+        h1{
+            color: green;
+        }
+        h2{
+            color: blueviolet;
+        }
+        h4{
+            color:brown;
+        }
+        hr{
+            border-style: none;
+            border-top-style: dotted;
+            border-color:seagreen ;
+            border-width: 10%;
+        }
+    
